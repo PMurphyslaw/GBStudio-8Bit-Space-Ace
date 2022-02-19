@@ -1,5 +1,5 @@
 
-# GBStudio-8Bit-Aleins-
+# GBStudio-8Bit-Space-Ace
 
 
 This is an 8-Bit 2D Side-Scroller game created in <a href=https://www.gbstudio.dev/>GB Studio</a>. 
@@ -12,7 +12,9 @@ Use the levels as starters for your own games or take the backgrounds and sprite
 
 I'll be honest, this game probably could have been better put together. 
 On one Map there are 10 actors too many and I just left it like that.
-I used Ms Paint instead of an online editor and I really don't regret that either.
+There are no "lives", you just keep moving up in levels. I thought about adding 
+a heatlh bar or reseting to the start of the level if a playe is hit or destoyed.
+
 
 
 GB Studio itself is licensed under MIT Open Source license.
@@ -26,7 +28,7 @@ I've got it in 3 Options:
   <a href=https://github.com/PMurphyslaw/GBStudio-8Bit-Aleins-/tree/main/rom>ROM</a>, and,
    <a href=https://github.com/PMurphyslaw/GBStudio-8Bit-Aleins-/tree/main/web>HTML</a>
 
-<img src="https://avatars.githubusercontent.com/u/87005845?v=4" alt="Simply Easy Learning" width="200" height="80">
+<img src="https://avatars.githubusercontent.com/u/87005845?v=4" =width="200" height="80">
 
 # Screenshots
 
@@ -34,7 +36,21 @@ I've got it in 3 Options:
 
 ![Game Layout](https://user-images.githubusercontent.com/87005845/154525815-4c37d7e6-2cb4-4e81-987f-238c721bb608.JPG)
 
+  Dialogue
+  
+![Dialogue](https://user-images.githubusercontent.com/87005845/154805133-b233b7cd-462b-431b-b692-3106b6b93ee5.JPG)
 
-I might fix this later on.
+  Gameplay
+  
+![Gameplay](https://user-images.githubusercontent.com/87005845/154805127-8c9b7292-66fc-480b-b071-3cb912940f66.JPG)
 
-![Photoshop funding needed](https://user-images.githubusercontent.com/87005845/154525809-525efb04-d17b-4473-b648-87d8fb85efc8.JPG)
+![vlv 2](https://user-images.githubusercontent.com/87005845/154805131-986b0c88-0cdd-47ab-925a-81dcb2034347.JPG)
+
+Start
+
+![Start](https://user-images.githubusercontent.com/87005845/154805130-67ed64cd-76c0-45d7-95ab-a9a95e10aa05.JPG)
+
+  
+
+
+I used Ms Paint instead of an online editor and I really don't regret it either.
