@@ -8,7 +8,8 @@ This is an 8-Bit 2D Side-Scroller game created in <a href=https://www.gbstudio.d
 The game is based on the provided 2D Side Scroller named, "SpaceBattle".
 
 Using GB Studio allowed me to find its' and my limitations if nothing else. 
-I chose GB Studio as since it was advertised as the lowest impact game creator that would run locally on my system.
+I chose GB Studio as since it was advertised as the lowest impact game creator that would run locally on my system. 
+I could have chose pixelbox but it crashed on installing.
 Not that it mattered as my fossil of a laptop, (A 2013 non-upgradable ThinkPad) who doesn't want to compile half the time anyways.
 Use the levels as starters for your own games or take the backgrounds and sprites.
 
