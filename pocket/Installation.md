@@ -1,0 +1,14 @@
+So you have a analogue Pocket you want to play this game on? SWEET!
+
+The Analogue Pocket recognizes GB Studio titles as proper Game Boy releases.
+Create a new folder at the root of a FAT32-formatted MicroSD card and name it GB Studio.
+If a .pocket file is not included with the game:
+Download GB Studio for free, open the game’s .gbsproj file, use the top navigation bar to select 
+Game > Export As > Pocket File, and wait for the project to compile and export.
+Copy the .pocket file into the GB Studio folder on the MicroSD
+Insert the MicroSD card into the Analogue Pocket
+Power on the handheld and press the Analogue button to open the OS menu
+Navigate to Tools > GB Studio > Play Creations and boot the game you’d like to play
+
+Follow this link to have someone who gets more Ad referals than I do, explain it.
+<iframe width="442" height="249" src="https://www.youtube.com/embed/pwyxul-E3Ps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
